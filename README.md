@@ -1,7 +1,9 @@
 # Allpatterns2
 
 ## Builder
-<div align="center"><"https://lh3.googleusercontent.com/zRSPCgsvEraePczqEnz812vs4Q1bIdsNfanLyuRMcOnPoguqR5Fn-cErEwr8K_Eh-LKjVzRfyiY2sCrqrhVZLoYjnVU6Kl_CXqkZsxGpOFgbXghuAXA" height="300" width="350"></div>
+
+<div align="center"><img src="https://1.bp.blogspot.com/-Wl7nwZc7HFw/TeJml4n8l9I/AAAAAAAAJKM/egrJhwNO_JM/s1600/image00.jpg" height="300" width="350"></div>
+
    Permite la creación de un objeto complejo, a partir de una variedad de partes que contribuyen individualmente a la
    creación y ensamblación del objeto mencionado. Hace uso de la frase "divide y conquistarás".
    
