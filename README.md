@@ -2,7 +2,7 @@
 
 ## Builder
 
-<div align="center"><img src="https://1.bp.blogspot.com/-Wl7nwZc7HFw/TeJml4n8l9I/AAAAAAAAJKM/egrJhwNO_JM/s1600/image00.jpg" height="300" width="350"></div>
+<div align="center"><img src="https://1.bp.blogspot.com/-Wl7nwZc7HFw/TeJml4n8l9I/AAAAAAAAJKM/egrJhwNO_JM/s1600/image00.jpg"></div>
 
    Permite la creación de un objeto complejo, a partir de una variedad de partes que contribuyen individualmente a la
    creación y ensamblación del objeto mencionado. Hace uso de la frase "divide y conquistarás".
