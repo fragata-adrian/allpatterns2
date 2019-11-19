@@ -1,6 +1,6 @@
 # Allpatterns2
 
-##Builder
+## Builder
    Permite la creación de un objeto complejo, a partir de una variedad de partes que contribuyen individualmente a la
    creación y ensamblación del objeto mencionado. Hace uso de la frase "divide y conquistarás".
    
