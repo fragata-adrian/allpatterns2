@@ -2,7 +2,7 @@
 
 ## Chain of Responsibility
 
-<div align="center"><img src="https://lh6.googleusercontent.com/-3NnctckTzla7TA0IA8Be-AbBu0GJLNWMAyNV8DTowXkvpIxOtGh7vp2DXuYvgzVY0Xg1HE_e-R23dmur2jU0OADeQGrc48oI4xHxlCuJlFrfxvll1M" height="300" width="650"></div>
+<div align="center"><img src="https://lh6.googleusercontent.com/-3NnctckTzla7TA0IA8Be-AbBu0GJLNWMAyNV8DTowXkvpIxOtGh7vp2DXuYvgzVY0Xg1HE_e-R23dmur2jU0OADeQGrc48oI4xHxlCuJlFrfxvll1M"></div>
 
 Permite establecer una cadena de objetos receptores a través de los cuales se pasa una petición formulada por un objeto
 emisor. La idea es que cualquiera de los receptores pueden responder a la petición en función de un criterio establecido.
