@@ -14,7 +14,7 @@ En múltiples ocasiones, un cliente necesita que se realice una función, pero o
 función o es conveniente que no lo conozca para evitar un gran acoplamiento entre ambos.
 
 
-##Ejemplo:
+## Ejemplo:
 
 ### Cliente
 Se pide modelar un cliente el cual desea hacer la compra de un auto, para ello el cliente contara con una suma de dinero la cual  le perimitira o no comprar el vehiculo deseado. 
